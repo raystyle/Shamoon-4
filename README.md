@@ -3,6 +3,8 @@ Reweited and optimized unofficial Iranian hackers group wiper malware aka "Shamo
 
 # MBR overwrite
 This Shamoon does not destroy MBR sector vain like its brothers. Instead write message to boot screen, original bootloader code leaked from "Redboot" ransowmare by reverse engineering.
+![Example](https://i.imgur.com/B1LUlbj.png)
+
 
 # Demonstration
 To view the demonstration video, you can check YouTube link - https://youtu.be/XsY9wu5ZB4M

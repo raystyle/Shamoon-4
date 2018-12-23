@@ -1,5 +1,5 @@
 # Shamoon 4
-Reweited and optimized unofficial Iranian hackers group wiper malware aka "Shamoon" in .NET 2.0.
+Rewrited and optimized unofficial Iranian hackers group wiper malware aka "Shamoon" in .NET 2.0.
 
 # MBR overwrite
 This Shamoon does not destroy MBR sector vain like its brothers. Instead write message to boot screen, original bootloader code leaked from "Redboot" ransowmare by reverse engineering.
